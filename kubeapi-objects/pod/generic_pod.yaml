@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Pod 
+metadata:
+  name: pod_name
+  namespaces: your_namespace
+spec:
+  containers:
+  - image: image_name
+    name: container_name
+    ports:
+      - containerport: port_number
+        name: port_name
+        protocol: TCP
