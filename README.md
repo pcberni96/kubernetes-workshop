@@ -1,3 +1,3 @@
 # kubernetes-workshop
 
-kubeapi-objects/pod/README.md
+<a href="kubeapi-objects/pod/README.md">PODS</a>
